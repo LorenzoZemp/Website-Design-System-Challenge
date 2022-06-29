@@ -1,0 +1,7 @@
+/* div {
+  border: 2px solid black;
+} */
+
+.colors div {
+  display: inline-block;
+}
